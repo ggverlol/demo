@@ -1,4 +1,4 @@
-# demo
+
 #pragma once
 #include"tao_game.h"
 #include<thread>//tao da luong
